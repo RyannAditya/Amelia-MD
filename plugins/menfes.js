@@ -45,7 +45,7 @@ handler.tags = ['anonymous']
 handler.help = ['menfess', 'mf'].map(v => v + ' <nomor|nama pengirim|pesan>')
 handler.command = /^(mf|menfess)$/i
 handler.private = false
-handler.premium = true
-handler.limit = true
+handler.premium = false
+handler.limit = false
 
 export default handler
