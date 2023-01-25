@@ -24,13 +24,13 @@ ${htjava} *💌 NamaBot* : D.Ace Botz
 ${htjava} *✉️ Nama RL* : Ryan Aditya Pratama
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 12 August 1994
-${htjava} *🎨 Umur* : 24
-${htjava} *🧮 Kelas* : SUDAH TAMAT
+${htjava} *⏰ Tanggal lahir* : 12 August 
+${htjava} *🎨 Umur* : 19
+${htjava} *🧮 Kelas* : 
 ${htjava} *🧩 Hobby* : Recode SC orang
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
 ${htjava} *🗺️ Tinggal* : Indo, Bandung, Jawa Barat
-${htjava} *❤️ Pacar* : ALYA
+${htjava} *❤️ Pacar* : Gd bego
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
