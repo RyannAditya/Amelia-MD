@@ -18,6 +18,6 @@ handler.tags = ['downloader']
 handler.command = /^(ttnowm|tiktoknowm)$/i
 
 handler.premium = false
-handler.limit = true 
+handler.limit = false
 
 export default handler
