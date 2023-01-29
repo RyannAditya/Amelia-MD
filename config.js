@@ -45,18 +45,18 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['62822522851432', 'RyannAdt', true],
+['62822522851432', 'XAVIER-MD', true],
 ]
 global.autoketik = false //status auto mengetik (auto typing)
-global.available = true //status online (online)
+global.available = false //status online (online)
 // Other
 global.mods = []
 global.prems = []
-global.nomorbot = '62822522851439'
-global.nameown = 'RyannAdt'
+global.nomorbot = '62822522851439
+global.nameown = '𝙔𝙖𝙣𝙣メ 𝙆𝙐𝙇𝙇𝘽𝙀𝙏'
 global.nomorown = '62822522851432'
 global.nomorown1 = '62822522851432'
-global.nomorown2 = '62823504965320'
+global.nomorown2 = '62822522851432'
 global.nomorwa = '0'
 global.limitawal = {
 
@@ -69,43 +69,43 @@ global.limitawal = {
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'RyannAdt' //ganti aja cuyyy
-global.namebot = 'D.Ace-Botz​' //nama bot luh
-global.wm = '© D.Ace-Botz' //ganti aja
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = 'D.Ace-Botz' //wm nyaa kocak
+global.author = '𝙔𝙖𝙣𝙣メ 𝙆𝙐𝙇𝙇𝘽𝙀𝙏' //ganti aja cuyyy
+global.namebot = '​Xavier-Md' //nama bot luh
+global.wm = '© Xavier-Md' //ganti aja
+global.media = 'https://telegra.ph/file/96bd6e476255e7a934e3e.jpg' //bebas
+global.wm = '𝙔𝙖𝙣𝙣メ 𝙆𝙐𝙇𝙇𝘽𝙀𝙏' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = 'RyannAdt' //ganti ajaa 
+global.wm2 = '𝙔𝙖𝙣𝙣メ 𝙆𝙐𝙇𝙇𝘽𝙀𝙏' //ganti ajaa 
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `D.Ace-Botz | RyannAdt` //gantu aja
-global.stickpack = 'D.Ace-Botz' //ganti 
-global.stickauth = `© 2021-2023` //gantii 
+global.titlebot = `Xavier-Md | PutraModz` //gantu aja
+global.stickpack = 'XAVIER-MD' //ganti 
+global.stickauth = `© 𝙔𝙖𝙣𝙣メ 𝙆𝙐𝙇𝙇𝘽𝙀𝙏` //gantii 
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'RyannAdt' //ganti 
-global.nameown2 = 'Zidann' //ganti 
+global.nameown1= '𝙔𝙖𝙣𝙣メ 𝙆𝙐𝙇𝙇𝘽𝙀𝙏' //ganti 
+global.nameown2 = '𝙔𝙖𝙣𝙣メ 𝙆𝙐𝙇𝙇𝘽𝙀𝙏' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
 global.lynk = 'https://chat.whatsapp.com/I47cTfEwzIC391KPBjbTPq'//ganti jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/zvkhalxst' //ganti jadi ig mu
-global.sgh = 'https://github.com/YannPrtm' //github
+global.sig = 'https://instagram.com/' //ganti jadi ig mu
+global.sgh = 'https://github.com/RyanAditya' //github
 global.sgc = 'https://chat.whatsapp.com/I47cTfEwzIC391KPBjbTPq' //group whatsapp
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
-global.snh = '' //yt klo punya 
+global.snh = 'https://youtube.com/' //yt klo punya 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '082350496532'
-global.povo = '082350496532'
-global.pgopay = '082252285143'
+global.pdana = 'Chat Owner !!'
+global.povo = '-'
+global.pgopay = 'Chat owner !!'
 global.plinkaja = '-' //link aja
-global.ppulsa = '082350496532'
-global.ppulsa2 = '082252285143'
-global.psaweria = 'https://saweria.co/RyannCvx'
+global.ppulsa = 'Chat owner !!'
+global.ppulsa2 = 'Chat owner !!'
+global.psaweria = 'https://telegra.ph/file/e323987d658fb70a3917f.jpg'
 
 //bebas cuyyy yg atas mahh 
 
@@ -151,7 +151,7 @@ global.dikit = "𝙳𝚒𝚔𝚒𝚝 𝙻𝚊𝚐𝚒,𝚂𝚎𝚖𝚊𝚗𝚐�
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RPG GAME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 19 // The higher, The harder levelup
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
@@ -293,10 +293,10 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/fb3301f5878e1f0bf6a9f.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/966b949e0e1f8f255c0b6.pngpg'
-global.giflogo = 'https://telegra.ph/file/966b949e0e1f8f255c0b6.png'
-global.thumbs = ['https://telegra.ph/file/fb3301f5878e1f0bf6a9f.jpg']
+global.thumb = 'https://telegra.ph/file/96bd6e476255e7a934e3e.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/96bd6e476255e7a934e3e.jpg'
+global.giflogo = 'https://telegra.ph/file/96bd6e476255e7a934e3e.jpg'
+global.thumbs = ['https://telegra.ph/file/96bd6e476255e7a934e3e.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -304,8 +304,8 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/966b949e0e1f8f255c0b6.png' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/fb3301f5878e1f0bf6a9f.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/96bd6e476255e7a934e3e.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/96bd6e476255e7a934e3e.jpg' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=",
@@ -534,16 +534,16 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = '?????????'
-global.urlnya = "https://www.instagram.com/zvkhalxst"
+global.urlnya = "https://www.instagram.com/l4c1f2r"
 global.dtc = '???? ?????'
-global.phn = '0822 5228-51432'
+global.phn = '0822 1472-9677'
 
 
 //?? 肓??????帕 ? JNGN DI UBAH ? 帕??????肓 ??
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://telegra.ph/file/966b949e0e1f8f255c0b6.png'
+global.thumbdoc = 'https://telegra.ph/file/96bd6e476255e7a934e3e.jpg'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
