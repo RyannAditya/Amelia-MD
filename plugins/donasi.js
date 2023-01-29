@@ -2,7 +2,7 @@ import fetch from 'node-fetch'
 
 //Plugin By Xynoz!!
 let handler = async (m, { conn, usedPrefix }) => {
-	let url = 'https://telegra.ph/file/ba72d2764080b10645d58.jpg'
+	let url = 'https://telegra.ph/file/e323987d658fb70a3917f.jpg'
 	conn.sendButton(m.chat, '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕                    \n╭─「_• *Dana/Gopay* •_」\n│ • *Dana* [082252285143]\n│ • *Gopay* [082252285143]\n╰────\n\n_◛˖ ```Ingin Donasi? Chat nomor owner```_', wm, await(await fetch(url)).buffer(), [['Owner',`/owner`]],m)
 }
 handler.command = /^(donasi|dns)$/i
