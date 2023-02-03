@@ -20,15 +20,16 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 NamaBot* : D.Ace Botz
+${htjava} *💌 NamaBot* : Squadron-Botz 﨎
 ${htjava} *✉️ Nama RL* : Ryan Aditya Pratama
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : 12 Agustus
-${htjava} *🎨 Umur* : 1 tahun maybe
+${htjava} *🎨 Umur* : 23
 ${htjava} *🧩 Hobby* : Recode SC orang
-${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
+${htjava} *💬 Sifat* : Sok Cool
 ${htjava} *🗺️ Tinggal* : Indo, Bandung, Jawa Barat
+${htjava} *❤ My Girlfriend* : Dewi Shofi Anzani
 
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 •·––––––––––––––––––––––––––·•
